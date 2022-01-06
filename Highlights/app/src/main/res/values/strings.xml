@@ -1,0 +1,8 @@
+<resources>
+    <string name="app_name">Highlights</string>
+    <string name="places">Locations</string>
+    <string name="rests">Restaurants</string>
+    <string name="webs">Websites</string>
+    <string name="contacts">Contacts</string>
+    <string name="preferences">Preferences</string>
+</resources>

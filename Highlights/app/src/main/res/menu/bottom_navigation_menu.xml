@@ -1,0 +1,27 @@
+<menu xmlns:android="http://schemas.android.com/apk/res/android">
+    <item
+        android:id="@+id/page_1"
+        android:enabled="true"
+        android:icon="@drawable/outline_place_24"
+        android:title="@string/places"/>
+    <item
+        android:id="@+id/page_2"
+        android:enabled="true"
+        android:icon="@drawable/outline_lunch_dining_24"
+        android:title="@string/rests"/>
+    <item
+        android:id="@+id/page_3"
+        android:enabled="true"
+        android:icon="@drawable/outline_wysiwyg_24"
+        android:title="@string/webs"/>
+    <item
+        android:id="@+id/page_4"
+        android:enabled="true"
+        android:icon="@drawable/outline_contacts_24"
+        android:title="@string/contacts"/>
+    <item
+        android:id="@+id/page_5"
+        android:enabled="true"
+        android:icon="@drawable/outline_settings_24"
+        android:title="@string/preferences"/>
+</menu>
